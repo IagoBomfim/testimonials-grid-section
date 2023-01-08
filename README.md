@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/IagoBomfim/testimonials-grid-section.git)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://starlit-mermaid-06c937.netlify.app/)
 
 ## My process
 
